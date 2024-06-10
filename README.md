@@ -4,7 +4,7 @@ Hi 👋 My name is Kelechi Nwankwoala
 Backend and Machine Learning Engineer
 -------------------------------------
 
-I've been coding for three years. I'm passionate about using data to solve practical problems.
+I've been coding for three years. I'm passionate about using data to produce practical solutions.
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [Knwankwoala2@gmail.com](mailto:Knwankwoala2@gmail.com)
