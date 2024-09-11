@@ -4,15 +4,12 @@ Hi 👋 My name is Kelechi Nwankwoala
 Backend and Machine Learning Engineer
 -------------------------------------
 
-I've been coding for three years. I'm passionate about using data to produce practical solutions.
+I'm passionate about using data to produce practical solutions.
 
 * 🌍  I'm based in New York City
 * ✉️  You can contact me at [Knwankwoala2@gmail.com](mailto:Knwankwoala2@gmail.com)
 * 🤝  I'm open to collaborating on Projects
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/Maxwells-Angel" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/kelechi-nwankwoala-44b6a8131/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
