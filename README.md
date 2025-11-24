@@ -1,7 +1,7 @@
 Hi 👋 My name is Kelechi Nwankwoala
 ===================================
 
-Backend and Machine Learning Engineer
+Research Engineer
 -------------------------------------
 
 I'm passionate about using data to produce practical solutions.
